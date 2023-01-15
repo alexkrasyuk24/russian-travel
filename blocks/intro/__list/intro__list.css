@@ -1,0 +1,25 @@
+.intro__list {
+  list-style: none;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 18px;
+  margin: 0;
+  margin-bottom: 92px;
+  padding: 0;
+}
+
+/* 767 */
+@media screen (max-width: 767px) {
+  .intro__title {
+    margin-bottom: 88px;
+  }
+}
+
+/* 480 */
+@media screen (max-width: 480px) {
+  .intro__title {
+    margin-bottom: 64px;
+  }
+}
