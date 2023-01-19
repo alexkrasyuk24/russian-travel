@@ -1,6 +1,4 @@
 .cover__link {
-  margin: 0 auto;
-  padding: 0;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -8,11 +6,6 @@
   text-decoration: none;
   align-items: center;
   width: 100%;
-  max-width: 1184px;
-  min-height: 740px;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
 }
 
 .cover__link::before {
