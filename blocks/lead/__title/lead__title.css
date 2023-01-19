@@ -7,8 +7,7 @@
   font-size: 96px;
   line-height: 100px;
   text-align: center;
-  color: #FFFFFF;
-  margin: 56px auto 32px auto;
+  margin: 0 auto 32px auto;
 }
 
 @media screen and (max-width: 1023px) {
@@ -23,12 +22,5 @@
       font-size: 40px;
       line-height: 44px;
       margin: 0 auto;
-  }
-}
-
-@media screen and (min-width: 321px) {
-  .lead__title {
-      max-width: 720px;
-      margin: 0 auto 0 auto;
   }
 }

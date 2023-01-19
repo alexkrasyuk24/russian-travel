@@ -5,10 +5,8 @@
   font-weight: 900;
   font-size: 54px;
   line-height: 58px;
-  color: #FFFFFF;
   margin: 0 0 40px 0;
 }
-
 
 @media screen and (max-width: 600px) {
   .intro__title {
