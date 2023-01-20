@@ -1,0 +1,14 @@
+.header__list-item {
+  margin: 18px 18px 6px 0;
+  padding: 0;
+}
+
+.header__list-item:last-child {
+  margin-right: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .header__list-item {
+    margin: 14px 18px 8px 0;
+  }
+}
