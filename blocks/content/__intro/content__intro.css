@@ -1,8 +1,7 @@
- /* 1280, 1024 */
- .content__intro {
+.content__intro {
   margin-bottom: 92px;
 }
-/* 768 */
+
 @media screen and (max-width: 768px) {
   .content__lead {
     margin-bottom: 88px;
